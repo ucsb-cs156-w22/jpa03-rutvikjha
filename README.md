@@ -1,6 +1,6 @@
 # demo-spring-react-example: dsre
 
-8359989b-ba76-4d79-85fa-ca49f2a09e59
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-rutvikjha/branch/main/graph/badge.svg?token=Q0s1KjyCi6)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-rutvikjha)
 
 Storybook is here:
 
