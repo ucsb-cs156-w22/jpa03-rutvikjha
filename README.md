@@ -1,4 +1,4 @@
-# demo-spring-react-example: dsre
+# jpa03-rutvikjha
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-rutvikjha/branch/main/graph/badge.svg?token=Q0s1KjyCi6)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-rutvikjha)
 
